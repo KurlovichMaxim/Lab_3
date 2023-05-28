@@ -23,4 +23,13 @@
     <string name="kotlin">Kotlin</string>
     <string name="swift">Swift</string>
     <string name="ios">iOS</string>
+    <string name="grid_icon">Grid</string>
+    <string name="rowScreen">Контейнер Row</string>
+    <string name="myColumn">Контейнер Column</string>
+    <string name="myBox">Контейнер Box</string>
+    <string name="mySurface">Контейнер Surface</string>
+    <string name="myScaffold">Контейнер Scaffold</string>
+    <string name="Kroll">Прокрутка</string>
+    <string name="List">List</string>
+    <string name="Grid">Grid</string>
 </resources>
