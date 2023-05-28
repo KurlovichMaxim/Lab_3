@@ -11,4 +11,7 @@
     <string name="button_alertDialog">Диалоговое окно</string>
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
+    <string name="first">Первый</string>
+    <string name="second">Второй</string>
+    <string name="third">Третий</string>
 </resources>
